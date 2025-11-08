@@ -56,6 +56,10 @@ figure {
     margin: 1rem 0;
     text-align: center;
 }
+figure img {
+    border-radius: 8px;
+    max-width: 100%;
+}
 
 figcaption {
     font-size: 0.95rem;
