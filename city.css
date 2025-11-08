@@ -78,3 +78,11 @@ footer {
     margin-top: 2rem;
     border-top: 1px solid #ddd;
 }
+@media (min-width:425px){
+    iframe{
+        width:90%;
+    }
+    figure img{
+        width:90%;
+    }
+}
